@@ -42,7 +42,7 @@ import  ../laser/dynamic_stack_arrays,
         ./syntactic_sugar,
         ./exporting
 
-export  metadataArray,
+export  dynamic_stack_arrays,
         data_structure,
         init_cpu,
         init_copy_cpu,
